@@ -1,3 +1,6 @@
 *.txt
-a.out
+<<<<<<< HEAD
 /newfolder/*
+=======
+/newfolder/*
+>>>>>>> f4ea9c44909e4905614896fc94c905e9daf5b41d
