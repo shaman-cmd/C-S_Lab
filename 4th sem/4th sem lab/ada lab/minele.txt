@@ -1,0 +1,40 @@
+the array is
+398 
+n=1	min=398
+
+the array is
+607 460 
+n=2	min=460
+
+the array is
+525 407 495 
+n=3	min=407
+
+the array is
+384 860 599 385 
+n=4	min=384
+
+the array is
+94 339 756 361 879 
+n=5	min=94
+
+the array is
+412 868 709 21 140 441 
+n=6	min=21
+
+the array is
+893 738 954 355 390 192 931 
+n=7	min=192
+
+the array is
+886 696 205 636 656 665 162 415 
+n=8	min=162
+
+the array is
+512 546 275 463 283 369 802 391 730 
+n=9	min=275
+
+the array is
+33 156 951 95 177 91 536 71 181 842 
+n=10	min=33
+

@@ -1,0 +1,8 @@
+set title 'toi'
+set xrange [0:10]
+set yrange [0:1000]
+set xlabel 'inputsize (n)'
+set ylabel 'operation count'
+set style data line
+plot 'toi_w_cnt.txt' title 'worst case'
+pause -1 'hit any key to continue"

@@ -1,0 +1,12 @@
+set title 'binary search'
+set xrange [0:100]
+set yrange [0:50]
+set xlabel 'inputsize (n)'
+set ylabel 'operation count'
+set style data line
+f(x)=a*(log(x)/log(2))
+fit f(x) 'binary_w_cnt.txt' using 1:2 via a
+g(x)= c*(log(x)/log(2))
+fit g(x) 'binary_avg_cnt.txt' using 1:2 via c
+plot 'binary_b_cnt.txt' title 'best case',g(x) title 'avg case',f(x) title 'worst case'
+pause -1 'hit any key to continue"

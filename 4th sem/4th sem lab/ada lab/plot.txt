@@ -1,0 +1,9 @@
+set title 'heap sort'
+set xrange [2:1024]
+set yrange [2:10000]
+set xlabel 'inputsize (n)'
+set ylabel 'operation count'
+set style data line
+plot 'heap_w_cnt.txt' title 'worst case','heap_avg_cnt.txt' title 'avg case','heap_b_cnt.txt' title 'best case'
+pause -1 'hit any key to continue'
+

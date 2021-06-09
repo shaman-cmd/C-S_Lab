@@ -1,0 +1,30 @@
+the main string is aaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+
+the main string is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa and matching string is aab
+pos=-1
+

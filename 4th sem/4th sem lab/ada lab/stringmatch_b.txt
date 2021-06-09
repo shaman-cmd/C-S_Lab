@@ -1,0 +1,30 @@
+the main string is MAAjLHjhnf and matching string is MAA
+pos=0
+
+the main string is Gni5vP4TIfvicsVXuq8q and matching string is Gni
+pos=0
+
+the main string is pIQOPsjXxw23J9W4OONmT7sWndJFtF and matching string is pIQ
+pos=0
+
+the main string is THbAlQQuBdQs5nrPh3uSfdNxZ1ywuRZemYCxDiR4 and matching string is THb
+pos=0
+
+the main string is jvmcIBSNucuzd5U1UilfY9jaXLyqRdlYxv13XHFhHXFKSpzDwL and matching string is jvm
+pos=0
+
+the main string is IkKPivoEM5IVR3gGW1dp9IcEjVRGodhWnPzwbN0LIwwnnAU8qVnpuqRB9y7n and matching string is IkK
+pos=0
+
+the main string is Ad7LQw5R7UqFeKQs9AqpmDCERj5OF0133WFKgApdkEGpenHdLVsVmSp21iGv9wo0iRAniO and matching string is Ad7
+pos=0
+
+the main string is oqiVFm6aoFTEr6nEYcLuxKOKAVrZ8xBmOJ5hT1i7v1CMVNeJPN2bnGJMrYznm0y0xt7gjdeE3EeOhgmU and matching string is oqi
+pos=0
+
+the main string is UcT5GsFWh49tSxhfPckYgoq7QsJVyVDiVncsFHeKAd3gz8kcbu0fGecmwL5Uvy1gL3yfyCPYEH51Ff3EzRJ3VJffl8 and matching string is UcT
+pos=0
+
+the main string is ZEwOK6F7b4xOS1lLQPOJhboR47q7cz503qECm8zl2WXIM7isMW0TYcyQaNMaaH02Vtu7rRgjB4Pb1XuBKiiwiHaikMjii7a3qu1H and matching string is ZEw
+pos=0
+
